@@ -37,7 +37,7 @@
 <h3 align="center">Where is the Space Sector in Brazil?</h3>
 
   <p align="center">
-    project_description
+    This is a short project in which I produce the graphic visualization above, in order to ilustrate the geographic configuration of the space sector in Brazil, contrasting the variety of regions that offer academic formation in Aerospace Engineering against a highly concentrated industry, situated in the state of São Paulo.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,7 +76,7 @@ This is a short project in which I produce the graphic visualization above, in o
 
 
 ### Built With
-
+* [![AEB][AEB]][https://img.shields.io/badge/AEB-Coding%20for%20Space-blue?style=for-the-badge&logo=appveyorfor-the-badge]
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
