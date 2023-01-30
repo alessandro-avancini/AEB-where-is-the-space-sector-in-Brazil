@@ -39,7 +39,7 @@
   <p align="center">
     This is a short project in which I produce the graphic visualization above, in order to ilustrate the geographic configuration of the space sector in Brazil, contrasting the variety of regions that offer academic formation in Aerospace Engineering against a highly concentrated industry, situated in the state of São Paulo.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alessandro-avancini/AEB-where-is-the-space-sector-in-Brazil/blob/main/where-is-the-space-sector-in-brazil.ipynb"><strong>Explore the notebook »</strong></a>
     <br />
     <br />
   </p>
