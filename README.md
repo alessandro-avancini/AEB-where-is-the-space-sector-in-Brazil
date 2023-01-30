@@ -25,6 +25,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![My Skills](https://skills.thijs.gg/icons?i=python,jupyter,styledcomponents&theme=light)](https://skills.thijs.gg)
+[![AEB](https://img.shields.io/badge/AEB-Coding%20for%20Space-blue?style=for-the-badge&logo=appveyorfor-the-badge)](https://www.gov.br/aeb/pt-br)
 
 
 
