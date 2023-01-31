@@ -38,9 +38,7 @@
 
 [![AEB](https://img.shields.io/badge/AEB-Coding%20for%20Space-blue?style=for-the-badge&logo=appveyorfor-the-badge)](https://www.gov.br/aeb/pt-br)
 
-The space sector has its own set of singularities and caracteristics. It is a higly technological industry, so 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The space sector has its own set of singularities and caracteristics. It is a higly technological industry,
 
 ### Built With
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=blue&logoColor=yellow)](https://www.python.org/)
