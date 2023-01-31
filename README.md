@@ -18,13 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![My Skills](https://skills.thijs.gg/icons?i=python,jupyter,styledcomponents&theme=light)](https://skills.thijs.gg)
+
 [![AEB](https://img.shields.io/badge/AEB-Coding%20for%20Space-blue?style=for-the-badge&logo=appveyorfor-the-badge)](https://www.gov.br/aeb/pt-br)
 
 
@@ -33,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/space-sector-map.jpeg" alt="Logo" width="400" height="400">
   </a>
 
 <h3 align="center">Where is the Space Sector in Brazil?</h3>
